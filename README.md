@@ -1,6 +1,6 @@
 -- Hello, I am EJayG<br/>
 -- I have many interests and hobbies<br/>
--- Blockchain optimist ! 
+-- Blockchain optimist ! <br/>
 --> NFT's: https://ab2.gallery/address/OSVHLOODITXJPTKERCOKFV675HQOZRIHROKNJM4LSIOM5NNNMGD24R6GQI<br/>
 --> Donations: https://unstoppabledomains.com/d/idigmartian.nft<br/>
 -- Contact:<br/>
