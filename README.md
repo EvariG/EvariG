@@ -1,4 +1,4 @@
--- Hello, I am Evaristo<br/>
+-- Greetings, Im Evaristo<br/>
 -- I have many interests and hobbies (e.g geology, math, and code) <br/>
 --> NFT's: https://ab2.gallery/address/OSVHLOODITXJPTKERCOKFV675HQOZRIHROKNJM4LSIOM5NNNMGD24R6GQI<br/>
 --> Accounts: https://unstoppabledomains.com/d/idigmartian.nft<br/>
